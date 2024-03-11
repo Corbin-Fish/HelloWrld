@@ -1,2 +1,2 @@
-$var = "Hello World"
-print($var)
+$var= "Hello World"
+Write-Host $var

@@ -1,6 +1,6 @@
 package main
 
 func main() {
-	var word string = "Hello World"
-	print(word)
+	var x string = "Hello World"
+	print(x)
 }
